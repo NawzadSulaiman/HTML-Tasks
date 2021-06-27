@@ -1,0 +1,46 @@
+header { text-align: center;}
+
+header h1 {
+    margin: 10px 0px 0px;
+    color: #4361ee
+}
+
+header .logo a img {
+    width: 150px;
+    height: 150px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li a{
+    text-decoration: none;
+    margin: 0px 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #4361ee
+}
+
+.content {
+    display: flex;
+    padding: 20px 0px;
+    color: #4361ee
+}
+
+.content  aside { flex: 30%;}
+
+.content  .articles { flex: 70%;}
+
+hr {
+    height: 1px;
+    background-color: #4361ee;
+    border: none;
+}
+
+footer {
+    text-align: center;
+    color: #4361ee;
+}
