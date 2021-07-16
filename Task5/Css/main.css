@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+h1 {
+    color: #080;
+}
+video {
+    border: 5px solid #F00;
+    padding: 5px;
+}
