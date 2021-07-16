@@ -1,0 +1,12 @@
+body {
+    background-color: #80edef;
+}
+h1 {
+    text-align: center;
+    color: #080;
+}
+
+audio {
+    display: block;
+    margin: 0px auto;
+}
